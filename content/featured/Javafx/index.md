@@ -2,7 +2,7 @@
 date: '2'
 title: 'EPL JavaFX Application'
 cover: './javafx.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - Java
