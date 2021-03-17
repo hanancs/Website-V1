@@ -1,14 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
+title: 'EPL JavaFX Application'
+cover: './javafx.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Java
+  - JavaFX
+  - FXML
 showInProjects: true
 ---
 
