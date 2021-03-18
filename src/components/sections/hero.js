@@ -48,8 +48,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello there, This is</h1>;
-  const two = <h2 className="big-heading">Ben Hanan Subendran.</h2>;
-  const three = <h3 className="big-heading">I try to build valuable products.</h3>;
+  const two = <h2 className="big-heading">Ben Hanan Subendran</h2>;
+  const three = <h3 className="big-heading">I try to build valuable products</h3>;
   const four = (
     <p>
       I'm a software developer based in Colombo, Sri Lanaka specializing in building (and
