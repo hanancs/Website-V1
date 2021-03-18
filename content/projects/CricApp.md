@@ -1,7 +1,6 @@
 ---
-date: '1'
+date: '2020-12-27'
 title: 'Cric App-U'
-cover: './cric.png'
 github: 'https://github.com/HananCS/cricApp'
 external: ''
 tech:
@@ -9,6 +8,7 @@ tech:
   - Firebase
   - CricketAPI
 showInProjects: true
+company: 'Code Brunch'
 ---
 
 A smart cricket app, fans can use it to emerge themselves as analyst.
