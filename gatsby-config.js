@@ -2,12 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ben Hanan Subendran',
-    description:
-      'Ben Hanan Subendran is a software developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    title: config.siteTitle,
+    description: config.siteDescription,
+    siteUrl: config.siteUrl, // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@jerome_hanan',
+    twitterUsername: config.twitterHandle,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -155,4 +154,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: '/mypersonalwebsite',
 };
