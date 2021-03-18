@@ -4,7 +4,7 @@ module.exports = {
     'Ben Hanan Subendran is a software developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Ben Hanan Subendran, Benhanan, Subendran, hanancs, software engineer, web developer, javascript, gospelport, unknown inc, mannar',
-  siteUrl: 'https://hanancs.github.io/mypersonalwebsite/',
+  siteUrl: 'https://hanancs.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
