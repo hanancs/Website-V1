@@ -1,7 +1,7 @@
 ---
 date: '2019-12-21'
 title: 'Content Writer'
-company: 'RD Labs'
+company: 'RDLabs'
 location: 'Gamphaha, Sri Lanka'
 range: 'May 2019 - Semptember 2019'
 url: 'https://www.apple.com/music/'

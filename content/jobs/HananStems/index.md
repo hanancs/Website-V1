@@ -1,7 +1,7 @@
 ---
 date: '2019-04-01'
 title: 'Sound Engineer'
-company: 'HananStems Records'
+company: 'HananStems'
 location: 'Colombo, Sri Lanka'
 range: 'January 2019 - Present'
 url: 'https://www.youtube.com/watch?v=yqFyaUp9aEM'

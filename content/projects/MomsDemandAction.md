@@ -1,6 +1,6 @@
 ---
 date: '2019-11-12'
-title: 'Timer'
+title: ''
 github: ''
 external: ''
 ios: ''

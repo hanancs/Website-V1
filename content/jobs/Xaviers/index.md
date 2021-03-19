@@ -1,7 +1,7 @@
 ---
 date: '2016-08-14'
 title: 'Managing Editor'
-company: 'Xaviers Xhibitor'
+company: 'XaviersXhibitor'
 location: 'Sri Lanka'
 range: 'August 2016 - May 2017'
 url: 'https://www.facebook.com/Xsquadmag'

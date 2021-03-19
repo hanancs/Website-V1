@@ -1,7 +1,7 @@
 ---
 date: '2020-08-21'
 title: 'Member'
-company: 'Code Riders'
+company: 'CodeRiders'
 location: 'Colombo, Sri Lanka'
 range: 'Semptember 2020 - April 2021'
 url: ''

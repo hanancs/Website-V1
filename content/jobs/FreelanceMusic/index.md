@@ -1,7 +1,7 @@
 ---
 date: '2018-04-01'
 title: 'Session Intrumentalist'
-company: 'Freelance Music'
+company: 'FreelanceMusic'
 location: 'Anywhere'
 range: 'January 2018 - Present '
 url: ''

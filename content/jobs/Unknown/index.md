@@ -1,7 +1,7 @@
 ---
 date: '2016-12-21'
 title: 'Co-Founder'
-company: 'Unknown Inc'
+company: 'UnknownInc'
 location: 'Mannar, Sri lanka'
 range: 'August 2018 - Present'
 url: 'https://www.behance.net/jerome_hanan'
