@@ -7,7 +7,7 @@ tech:
   - VS Code
   - Angular
   - RxJS
-showInProjects: true
+showInProjects: false
 company: 'Code Brunch'
 ---
 

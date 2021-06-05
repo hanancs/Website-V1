@@ -7,7 +7,7 @@ tech:
   - Play
   - Twirl
   - Scala
-showInProjects: true
+showInProjects: false
 company: 'Code Brunch'
 ---
 

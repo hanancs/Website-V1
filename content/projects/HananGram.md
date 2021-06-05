@@ -7,7 +7,7 @@ tech:
   - Laravel
   - Vue
   - PHP Storm
-showInProjects: true
+showInProjects: false
 company: 'Code Brunch'
 ---
 

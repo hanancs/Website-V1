@@ -7,7 +7,7 @@ tech:
   - HTML
   - CSS
   - JavaScript
-showInProjects: true
+showInProjects: false
 company: 'Bicyle Delivery'
 ---
 

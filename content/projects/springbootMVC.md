@@ -7,7 +7,7 @@ tech:
   - Java
   - Springboot
   - MySQL
-showInProjects: true
+showInProjects: false
 company: 'Code Brunch'
 ---
 

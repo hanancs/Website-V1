@@ -6,7 +6,7 @@ external: ''
 tech:
   - ReactJS
   - Style Component
-showInProjects: true
+showInProjects: false
 company: 'Code Brunch'
 ---
 
