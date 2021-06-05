@@ -7,7 +7,7 @@ tech:
   - Flutter
   - Firebase
   - CricketAPI
-showInProjects: false
+showInProjects: true
 company: 'Code Brunch'
 ---
 
