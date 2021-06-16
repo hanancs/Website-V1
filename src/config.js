@@ -7,10 +7,10 @@ module.exports = {
   siteUrl: 'https://hanancs.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
-  googleVerification: '',
+  googleVerification: 'googlefe8671bbd7eb9714',
   email: 'benhanan.subendran@gmail.com',
   github: 'https://github.com/HananCS',
-  twitterHandle: '@jerome_hanan',
+  twitterHandle: '@benhanancs',
 
   socialMedia: [
     {
@@ -19,11 +19,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/jerome_hanan/',
+      url: 'https://www.instagram.com/benhanansubendran/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Jerome_Hanan',
+      url: 'https://twitter.com/benhanancs',
     },
     {
       name: 'Linkedin',
