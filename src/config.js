@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/benhanansubendran/',
+      url: 'https://www.instagram.com/benhanan.subendran/',
     },
     {
       name: 'Twitter',
