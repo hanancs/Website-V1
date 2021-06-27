@@ -1,7 +1,8 @@
 module.exports = {
-  siteTitle: ' Ben Hanan Subendran | Software Engineer ',
+  siteTitle:
+    ' Ben Hanan Subendran | Audio Engineer | Software Engineering Undergraduate | Bassist ',
   siteDescription:
-    'Ben Hanan Subendran is a software developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Ben Hanan Subendran is a software engineering undergraduate specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Ben Hanan Subendran, Benhanan, Subendran, hanancs, software engineer, web developer, javascript, gospelport, unknown inc, mannar',
   siteUrl: 'https://hanancs.github.io/',
