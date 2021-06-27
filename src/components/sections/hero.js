@@ -52,8 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I try to build valuable products</h3>;
   const four = (
     <p>
-      I'm a software developer based in Colombo, Sri Lanaka specializing in building exceptional
-      websites, applications, and everything in between.
+      I'm a software engineering undergraduate based in Colombo, Sri Lanaka specializing in building
+      exceptional websites, applications, and everything in between.
     </p>
   );
   const five = (
