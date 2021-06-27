@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanancs.github.io/sitemap.xml
+Host: https://hanancs.github.io
