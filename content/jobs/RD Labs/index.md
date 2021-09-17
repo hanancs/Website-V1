@@ -4,7 +4,7 @@ title: 'Content Writer'
 company: 'RD Labs'
 location: 'Gamphaha, Sri Lanka'
 range: 'May 2019 - Semptember 2019'
-url: 'https://www.apple.com/music/'
+url: 'https://www.facebook.com/us.RDLabs'
 ---
 
 - RD Labs is a start-up begun by my friend Randu Lanka who has given me a chance to

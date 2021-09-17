@@ -116,7 +116,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "Profile.jpg" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "Profile.png" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -133,14 +133,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'HTML & (S)CSS',
+    'Jekyll',
+    'Flutter',
     'React',
-    'Angular',
+    'Svelte',
     'Play',
-    'Php',
-    'Java',
-    'Python',
+    'React Native',
+    'Hugo',
+    'Flask',
   ];
 
   return (
@@ -150,7 +150,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Ben Hanan Subendran, a software engineer based in Colombo, Sri Lanka.</p>
+            <p>Hello! I'm Ben Hanan Subendran, a software engineering undergraduate/audio engineer based in Colombo, Sri Lanka.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,

@@ -3,7 +3,7 @@ date: '1'
 title: 'Cric App-U'
 cover: './cric.png'
 github: 'https://github.com/HananCS/cricApp'
-external: 'https://halcyon-theme.netlify.com/'
+external: ''
 tech:
   - Flutter
   - Firebase

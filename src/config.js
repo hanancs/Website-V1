@@ -1,33 +1,34 @@
 module.exports = {
-  siteTitle: ' Ben Hanan Subendran | Software Engineer ',
+  siteTitle:
+    ' Ben Hanan Subendran | Audio Engineer | Software Engineering Undergraduate | Bassist ',
   siteDescription:
-    'Ben Hanan Subendran is a software developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Ben Hanan Subendran is a software engineering undergraduate specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Ben Hanan Subendran, Benhanan, Subendran, hanancs, software engineer, web developer, javascript, gospelport, unknown inc, mannar',
-  siteUrl: 'https://hanancs.github.io/mypersonalwebsite/',
+  siteUrl: 'https://hanancs.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: '',
+  googleVerification: 'googlefe8671bbd7eb9714',
   email: 'benhanan.subendran@gmail.com',
-  github: 'https://github.com/HananCS',
-  twitterHandle: '@jerome_hanan',
+  github: 'https://github.com/hanancs',
+  twitterHandle: '@hanancs',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/HananCS',
+      url: 'https://github.com/hanancs',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/jerome_hanan/',
+      url: 'https://www.instagram.com/benhanan.subendran/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Jerome_Hanan',
+      url: 'https://twitter.com/hanancs',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ben-hanan-subendran-2b691116a/',
+      url: 'https://www.linkedin.com/in/benhanan-subendran/',
     },
     {
       name: 'Codepen',
