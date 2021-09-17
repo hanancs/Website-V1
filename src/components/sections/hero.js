@@ -52,8 +52,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I try to build valuable products</h3>;
   const four = (
     <p>
-      I'm a software engineering undergraduate based in Colombo, Sri Lanaka specializing in building
-      exceptional websites, applications, and everything in between.
+      Ben Hanan Subendran is a software engineering undergraduate based in Colombo, Sri Lanaka specializing in building
+      exceptional websites, applications, and everything in between. He is also Composer / Singer- Songwriter 
+      / Musician and Record Producer at HananStems Records. His musical styles include Gospel, Country, Pop, Jazz, 
+      Western classical and Eastern classical. He has currently released his first Gospel Album in Tamil named "மீட்பு - Redemption".
     </p>
   );
   const five = (

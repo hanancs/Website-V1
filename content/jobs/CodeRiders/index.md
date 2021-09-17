@@ -1,10 +1,10 @@
 ---
 date: '2020-08-21'
 title: 'Member'
-company: 'CodeRiders'
+company: 'Code Riders'
 location: 'Colombo, Sri Lanka'
 range: 'Semptember 2020 - April 2021'
-url: ''
+url: 'https://github.com/Software-Development-Group-Project'
 ---
 
 - Developed and maintained Data Science Web App.

@@ -10,13 +10,13 @@ module.exports = {
   googleAnalyticsID: '',
   googleVerification: 'googlefe8671bbd7eb9714',
   email: 'benhanan.subendran@gmail.com',
-  github: 'https://github.com/HananCS',
-  twitterHandle: '@benhanancs',
+  github: 'https://github.com/hanancs',
+  twitterHandle: '@hanancs',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/HananCS',
+      url: 'https://github.com/hanancs',
     },
     {
       name: 'Instagram',
@@ -24,11 +24,11 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/benhanancs',
+      url: 'https://twitter.com/hanancs',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ben-hanan-subendran-2b691116a/',
+      url: 'https://www.linkedin.com/in/benhanan-subendran/',
     },
     {
       name: 'Codepen',

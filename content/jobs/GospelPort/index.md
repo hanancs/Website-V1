@@ -1,7 +1,7 @@
 ---
 date: '2020-05-14'
 title: 'Founder'
-company: 'GospelPort'
+company: 'Gospel Port'
 location: 'Colombo, Sri Lanka'
 range: 'December 2020 - Present'
 url: 'https://sites.google.com/view/gospel-port/home'
